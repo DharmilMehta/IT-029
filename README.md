@@ -1,2 +1,6 @@
-# IT-029
-This project is about sws experiment
+#include<stdio.h>
+void main()
+{
+ printf("hello");
+ printf("World");
+}
